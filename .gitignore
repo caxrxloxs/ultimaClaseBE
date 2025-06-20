@@ -1,0 +1,5 @@
+# Contenido mínimo:
+api/node_modules/
+api/.env
+*.log
+.DS_Store
